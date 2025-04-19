@@ -1,0 +1,81 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP PCM1795DBR
+D 32-bit, 192kHz Sampling, Advanced Segment, Audio Stereo DAC
+K
+F http://www.ti.com/lit/gpn/pcm1795
+$ENDCMP
+#
+$CMP ESP32-S3
+D WiFi Modules - 802.11 [ENGINEERING SAMPLES]SMD IC, Dual-Core MCU, Wi-Fi 2.4G & BLE 5.0 Combo
+K
+F 
+$ENDCMP
+#
+$CMP NE5534ADR
+D NE5534ADR, Operational Amplifier 10MHz, 8-Pin SOIC
+K
+F http://www.ti.com/lit/ds/symlink/ne5534a.pdf
+$ENDCMP
+#
+$CMP ERA-6AEB821V
+D Metal Thin Film Chip Resistor, 0805, 0.125W
+K
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf
+$ENDCMP
+#
+$CMP ERA-6AEB221V
+D Thin Film Resistors - SMD 0805 220ohm 1/8W .1% 25ppm
+K
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf
+$ENDCMP
+#
+$CMP ERA-6AEB201V
+D Metal Thin Film Chip Resistor, 0805, 0.125W
+K
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf
+$ENDCMP
+#
+$CMP ERA-6AEB181V
+D Metal Thin Film Chip Resistor, 0805, 0.125W
+K
+F https://componentsearchengine.com/Datasheets/1/ERA-6AEB181V.pdf
+$ENDCMP
+#
+$CMP FKP2O100331D00KSSD
+D Film Capacitors 1000V 33pF 10%
+K
+F 
+$ENDCMP
+#
+$CMP PHE426HJ4270JR05
+D Film Capacitors 250V 0.0027uF 5% LS=5mm
+K
+F https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/specsheet/F426JF272J250C
+$ENDCMP
+#
+$CMP PHE426HJ6100JR05
+D KEMET 100nF Polypropylene Capacitor PP 160 V ac, 250 V dc +/-5% Tolerance Through Hole PHE426 Series
+K
+F https://content.kemet.com/datasheets/F3294_PHE426.pdf
+$ENDCMP
+#
+$CMP PHE426DJ4820JR05
+D PHE426DJ4820JR05
+K
+F https://content.kemet.com/datasheets/F3294_PHE426.pdf
+$ENDCMP
+#
+$CMP PHE426DJ5270JR05
+D PHE426DJ5270JR05
+K
+F https://componentsearchengine.com/Datasheets/1/PHE426DJ5270JR05.pdf
+$ENDCMP
+#
+#End Doc Library

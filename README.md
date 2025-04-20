@@ -38,7 +38,7 @@ Non-formal requirements to ensure that we have a clear goal for the project.
 - 11/5/25: first draft for layout completed
 - 18/5/25: catch-up and revised layout from feedback previous week
 
-** Be done before _27/7/25_ with complete design, assembly and testing. (and mass production >:)... ) **
+**Be done before _27/7/25_ with complete design, assembly and testing. (and mass production >:)... )**
 
 # Tools and suppliers
 

@@ -2150,7 +2150,7 @@
 				)
 			)
 			(pin input line
-				(at 2.54 -7.62 90)
+				(at 2.54 7.62 270)
 				(length 6.35)
 				(name "COMP"
 					(effects

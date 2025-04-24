@@ -450,7 +450,8 @@
       "Project_Library"
     ],
     "pinned_symbol_libs": [
-      "Project_Library"
+      "Project_Library",
+      "Download_Library"
     ]
   },
   "meta": {

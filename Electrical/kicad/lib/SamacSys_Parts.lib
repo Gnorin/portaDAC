@@ -370,4 +370,97 @@ P 2 0 1 6 280 0 300 0 N
 ENDDRAW
 ENDDEF
 #
+#SamacSys ECAD Model 865230643009
+#/467790/1348638/2.50/2/3/Capacitor Polarised
+DEF 865230643009 C 0 30 Y Y 1 F N
+F0 "C" 350 250 50 H V L CNN
+F1 "865230643009" 350 150 50 H V L CNN
+F2 "CAPAE660X550N" 350 50 50 H I L CNN
+F3 "https://katalog.we-online.de/pbs/datasheet/865230643009.pdf" 350 -50 50 H I L CNN
+F4 "Wurth Elektronik 10uF 50 V dc Aluminium Electrolytic Capacitor, WCAP-AS5H Series 5000h 5.5 (Dia.) x 6.15mm" 350 -150 50 H I L CNN "Description"
+F5 "5.5" 350 -250 50 H I L CNN "Height"
+F6 "710-865230643009" 350 -350 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/865230643009?qs=0KOYDY2FL29CtE99DkAZxQ%3D%3D" 350 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "Wurth Elektronik" 350 -550 50 H I L CNN "Manufacturer_Name"
+F9 "865230643009" 350 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 100 R 50 50 0 0 P
+X ~ 2 500 0 100 L 50 50 0 0 P
+P 5 0 1 6 200 100 200 -100 230 -100 230 100 200 100 N
+P 2 0 1 6 180 50 140 50 N
+P 2 0 1 6 160 70 160 30 N
+P 2 0 1 6 100 0 200 0 N
+P 2 0 1 6 300 0 400 0 N
+P 5 0 1 10 300 100 300 -100 270 -100 270 100 300 100 F
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model UMK325C7106KM-T
+#/2292413/1348638/2.50/2/3/Capacitor
+DEF UMK325C7106KM-T C 0 30 Y Y 1 F N
+F0 "C" 350 250 50 H V L CNN
+F1 "UMK325C7106KM-T" 350 150 50 H V L CNN
+F2 "CAPC3225X270N" 350 50 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/UMK325C7106KM-T.pdf" 350 -50 50 H I L CNN
+F4 "Multilayer Ceramic Capacitors MLCC - SMD/SMT 1210 50V 10uF 10% X7S" 350 -150 50 H I L CNN "Description"
+F5 "2.7" 350 -250 50 H I L CNN "Height"
+F6 "963-UMK325C7106KM-T" 350 -350 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/TAIYO-YUDEN/UMK325C7106KM-T?qs=PzICbMaShUfPIZP%2F%2Fm%2FNew%3D%3D" 350 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "TAIYO YUDEN" 350 -550 50 H I L CNN "Manufacturer_Name"
+F9 "UMK325C7106KM-T" 350 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 500 0 200 L 50 50 0 0 P
+P 2 0 1 6 220 100 220 -100 N
+P 2 0 1 6 280 100 280 -100 N
+P 2 0 1 6 200 0 220 0 N
+P 2 0 1 6 280 0 300 0 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model UFW1H101MPD1TD
+#/12319488/1348638/2.50/2/3/Capacitor Polarised
+DEF UFW1H101MPD1TD C 0 30 Y Y 1 F N
+F0 "C" 350 250 50 H V L CNN
+F1 "UFW1H101MPD1TD" 350 150 50 H V L CNN
+F2 "CAPPRD350W60D825H1300" 350 50 50 H I L CNN
+F3 "https://www.nichicon.co.jp/english/series_items/catalog_pdf/e-ufw.pdf" 350 -50 50 H I L CNN
+F4 "Aluminum Electrolytic Capacitors - Radial Leaded 100uF 50 Volts 20%" 350 -150 50 H I L CNN "Description"
+F5 "13" 350 -250 50 H I L CNN "Height"
+F6 "647-UFW1H101MPD1TD" 350 -350 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Nichicon/UFW1H101MPD1TD?qs=WJSLByB5Mu30jPPJ2KiG3A%3D%3D" 350 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "Nichicon" 350 -550 50 H I L CNN "Manufacturer_Name"
+F9 "UFW1H101MPD1TD" 350 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 100 R 50 50 0 0 P
+X ~ 2 500 0 100 L 50 50 0 0 P
+P 5 0 1 6 200 100 200 -100 230 -100 230 100 200 100 N
+P 2 0 1 6 180 50 140 50 N
+P 2 0 1 6 160 70 160 30 N
+P 2 0 1 6 100 0 200 0 N
+P 2 0 1 6 300 0 400 0 N
+P 5 0 1 10 300 100 300 -100 270 -100 270 100 300 100 F
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model ERA-6AEB103V
+#/415/1348638/2.50/2/2/Resistor
+DEF ERA-6AEB103V R 0 30 Y Y 1 F N
+F0 "R" 550 250 50 H V L CNN
+F1 "ERA-6AEB103V" 550 150 50 H V L CNN
+F2 "ERA6AEB101V" 550 50 50 H I L CNN
+F3 "https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf" 550 -50 50 H I L CNN
+F4 "Metal Thin Film Chip Resistor, 0805, 0.125W" 550 -150 50 H I L CNN "Description"
+F5 "0.6" 550 -250 50 H I L CNN "Height"
+F6 "667-ERA-6AEB103V" 550 -350 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Panasonic/ERA-6AEB103V?qs=1VWA5LkbEaq074TWE8fpJw%3D%3D" 550 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "Panasonic" 550 -550 50 H I L CNN "Manufacturer_Name"
+F9 "ERA-6AEB103V" 550 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 700 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 50 500 50 500 -50 200 -50 200 50 N
+ENDDRAW
+ENDDEF
+#
 #End Library

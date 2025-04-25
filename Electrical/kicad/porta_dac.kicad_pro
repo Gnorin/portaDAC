@@ -619,16 +619,12 @@
       "Root"
     ],
     [
-      "0f2bdc55-c8b8-49c6-b302-3fc2cb108dbc",
-      "Analog"
+      "42d2340f-c80a-48ad-ada3-f2df2923e2bc",
+      "Amp I-V stage L1"
     ],
     [
-      "94a292be-654d-4270-ba92-c9c106b4eb9e",
-      "Amp I-V stage L"
-    ],
-    [
-      "59e47a6c-ac67-44ca-b40b-799d8304a568",
-      "Amp I-V stage R"
+      "967ce541-ff5d-459b-afa1-624e7fee81b1",
+      "Amp I-V stage R1"
     ]
   ],
   "text_variables": {}

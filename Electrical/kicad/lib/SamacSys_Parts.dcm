@@ -102,4 +102,16 @@ K
 F https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf
 $ENDCMP
 #
+$CMP ERA-6AEB104V
+D Thin Film Resistors - SMD 0805 1/8W 100Kohms
+K
+F https://componentsearchengine.com/Datasheets/1/ERA-6AEB104V.pdf
+$ENDCMP
+#
+$CMP CDCE913PWR
+D Programmable 1-PLL VCXO Clock Synthesizer with 2.5-V or 3.3-V LVCMOS Outputs
+K
+F http://www.ti.com/lit/gpn/CDCE913
+$ENDCMP
+#
 #End Doc Library

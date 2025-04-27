@@ -114,4 +114,16 @@ K
 F http://www.ti.com/lit/gpn/CDCE913
 $ENDCMP
 #
+$CMP SRN4018BTA-220M
+D 	 22 H Half Shielded Wirewound Inductor 720 mA 290mOhm 1616 (4040 Metric)
+K
+F https://www.bourns.com/docs/Product-Datasheets/SRN4018BTA.pdf
+$ENDCMP
+#
+$CMP SIT8008AI-11-18E-25.000000G
+D PROGRAMMABLE, LOW POWER OSCILLATOR, -40 TO 85C, 2520, 20PPM, 1.8V, 25MHZ, OE, SMD, NRND - Tape and Reel
+K
+F https://www.sitime.com/parts/sit8008ai-11-18e-25000000?srsltid=AfmBOoqMFEPVxBdyjXlQFLEiIG8CPsxhRCVA4t5vjATWpbcBoMaBnkPT
+$ENDCMP
+#
 #End Doc Library

@@ -1,4 +1,4 @@
-25233389132330668
+25236880503101234
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -88914,12 +88914,26 @@ Integrated Circuit
 8
 8
 Project_Library
+SOP65P640X120-14N
+PW (R-PDSO-G14)
+Integrated Circuit
+0
+14
+14
+Project_Library
 SOP65P780X200-28N
 DB0028A
 Integrated Circuit
 0
 28
 28
+Project_Library
+SRN4018BTA220M
+SRN4018BTA-220M
+Inductor
+0
+2
+2
 RF
 Skyworks_SKY13575_639LF
 http://www.skyworksinc.com/uploads/documents/SKY13575_639LF_203270D.pdf
